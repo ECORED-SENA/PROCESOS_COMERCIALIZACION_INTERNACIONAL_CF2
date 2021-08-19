@@ -1,0 +1,136 @@
+.img-500
+    width: 500px !important
+    margin: auto 
+.img-400
+    width: 400px !important
+    margin: auto   
+.img-300
+    height: 300px !important
+    margin: auto        
+.img-200
+    height: 200px !important
+    margin: auto     
+.img-150
+    height: 150px !important
+    margin: auto   
+.p-cent
+  text-align: center !important    
+.bloque-texto-b.color-secundario:before 
+    background-color: #EEEAFD
+.ii
+  color: #472EA6 !important
+.fnd1
+  background-color: #FFF6EE !important      
+.fnd2
+  background-color: #EEEAFD !important   
+.fond-3
+  background-color: #EEFFFD !important  
+.fond4
+  background-color: #EEEAFD !important
+.fond5
+  background-color: #472EA6 !important
+  border-radius: 40px 0px 0px 40px  
+.texxt
+  color: #ffffff  !important
+  text-align: center   
+.fond5-
+  background-color: #7454ED !important
+  border-radius: 0px 40px 40px 0px 
+
+.img-c // centrar imagenes
+  justify-content: center!important
+  display: block
+  margin: 0 auto
+.wd-50  
+  width: 50%
+  color: #fff !important
+
+.linea-tiempo-b__icon img 
+    width: 100% !important
+.linea-tiempo-b.color-secundario .linea-tiempo-b__icon:after
+    background-color: #6DC5DB
+
+
+.linea-tiempo-b__line:after 
+    top: 150px !important
+    bottom: 150px !important  
+
+.cc1
+  background-color: #FD8F25
+  border-radius: 60px
+  width: 60px
+  height: 60px
+  top: 25px
+  transform: translateX(-20%)
+
+.cc3
+  position: absolute
+  left: 50%
+  top: 50%
+  color: #ffffff
+  transform: translate(-50%,-50%)   
+   
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+  
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #F1EEFD
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+  &__txt
+    flex: 1 
+    order: 2  
+
+.crd_04 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: end
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #F1EEFD
+    border-radius: 15px
+    z-index: -1
+    margin-right: 100px
+  &__icon
+    order: 2
+    flex-basis: auto
+  &__txt
+    flex: 1 
+    order: 1        
+
+.fondo-i
+  background-image: url(../assets/tema4/fnd-1.svg)
+  background-repeat: no-repeat      
+  background-position: bottom center
+  background-size: auto
+  background-repeat: no-repeat
+  overflow: visible  
