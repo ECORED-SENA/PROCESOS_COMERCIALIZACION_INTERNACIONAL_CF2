@@ -336,7 +336,7 @@
       .row.justify-content-around.align-items-center
         .col-md-9
           figure
-            img(src='@/assets/tema2/img-19.svg')
+            img(src='@/assets/tema2/img-19-.svg')
 
 
 </template>
