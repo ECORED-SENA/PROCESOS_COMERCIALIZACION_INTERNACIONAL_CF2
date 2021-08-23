@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Diagnóstico del mercado',
     descripcionCurso:
-      'En el deseo de incursionar en mercados internacionales, el diagnóstico es el primer proceso que permite analizar las variables a considerar en el estudio de mercados.<br/><br/>Mediante el estudio del presente material, será posible identificar los diferentes métodos usados para la selección de ideas, enfocado a la elección del bien y/o servicio a comercializar.<br/><br/>Del mismo modo, se darán a conocer los beneficios de tener acuerdos comerciales con diferentes países y regiones y las variables para tener en cuenta en el estudio del microentorno y macroentorno de las empresas.<br/> <br/>Finalmente, se abordará una breve introducción al plan de mercadeo, con sus objetivos y estrategias.',
+      'En el deseo de incursionar en mercados internacionales, el diagnóstico es el primer proceso que permite analizar las variables a considerar en el estudio de mercados.<br/><br/>Mediante el estudio del presente material, será posible identificar los diferentes métodos usados para la selección de ideas, enfocado a la elección del bien y/o servicio a comercializar.<br/><br/>Finalmente, se abordará una breve introducción al plan de mercadeo, con sus objetivos y estrategias.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -29,13 +29,13 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Método Lambin',
+            titulo: 'Método <em>Lambin</em>',
             hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Método Brainstorming (lluvia de ideas)',
+            titulo: 'Método <em>Brainstorming</em> (lluvia de ideas)',
             hash: 't_1_3',
           },
           {
@@ -89,7 +89,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: '¿Qué es el entorno?',
+            titulo: 'Objetivo',
             hash: 't_3_1',
           },
           {
@@ -168,11 +168,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Andere, E. y Kessel, G. (1992). México y el tratado trilateral de libre comercio: impacto sectorial. México D.F.: MacGraw-Hill.',
+        'Andere, E. y Kessel, G. (1992). <em>México y el tratado trilateral de libre comercio: impacto sectorial.</em> México D.F.: MacGraw-Hill.',
     },
     {
       referencia:
-        'Barón, J. (2002). Las regiones económicas de Colombia: un análisis de clusters. ',
+        'Barón, J. (2002). <em>Las regiones económicas de Colombia: un análisis de clusters.</em> ',
       link: 'http://www.banrep.gov.co/',
     },
     {
@@ -182,12 +182,12 @@ export default {
     },
     {
       referencia:
-        'Dimitri, C. R., & Rodríguez, S. Á. (2009). Planeación estratégica. ProQuest Ebook Central. ',
+        'Dimitri, C. R., & Rodríguez, S. Á. (2009). <em>Planeación estratégica</em>. ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Esteban, T. Á. (3a. ed.). (2014). Principios de marketing. ProQuest Ebook Central. ',
+        'Esteban, T. Á. (3a. ed.). (2014).<em> Principios de marketing.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
@@ -196,75 +196,76 @@ export default {
     },
     {
       referencia:
-        'Fernández, R. (3a. ed.). (2009). Segmentación de Mercados. McGraw-Hill Interamericana. ',
+        'Fernández, R. (3a. ed.). (2009). <em>Segmentación de Mercados.<em> McGraw-Hill Interamericana. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=687&pg=20',
     },
     {
       referencia:
-        'Fernández, R. A. (2005). Creatividad e innovación en empresas y organizaciones: técnicas para la resolución de problemas. ProQuest Ebook Central. ',
+        'Fernández, R. A. (2005). <em>Creatividad e innovación en empresas y organizaciones: técnicas para la resolución de problemas.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Limas, S. S. J. (2012). Marketing empresarial: dirección como estrategia competitiva. ProQuest Ebook Central. ',
+        'Limas, S. S. J. (2012). <em>Marketing empresarial: dirección como estrategia competitiva.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Mankiw, G. (7a. ed.). (2017). Principios de economía. Cengage. ',
+        'Mankiw, G. (7a. ed.). (2017). <em>Principios de economía.</em> Cengage. ',
       link:
         'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=3752&pg=108 Página 75.',
     },
     {
       referencia:
-        'Martínez, S. J. M., & Jiménez, E. (2001). Marketing. ProQuest Ebook Central. ',
+        'Martínez, S. J. M., & Jiménez, E. (2001). <em>Marketing.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Ministerio de Agricultura y Desarrollo Rural. (2016). Modelo de inteligencia de mercado. Bogotá, Colombia: Impresol Ediciones Ltda.',
+        'Ministerio de Agricultura y Desarrollo Rural. (2016). <em>Modelo de inteligencia de mercado.</em> Bogotá, Colombia: Impresol Ediciones Ltda.',
     },
     {
       referencia:
-        'Murcia, C. H. H. (2011). Creatividad e innovación para el desarrollo empresarial. ProQuest Ebook Central. ',
+        'Murcia, C. H. H. (2011). <em>Creatividad e innovación para el desarrollo empresarial.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Palacios, A. L. C. (2009). Dirección estratégica. ProQuest Ebook Central. ',
+        'Palacios, A. L. C. (2009). <em>Dirección estratégica.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Palacios, L. (2010). Dirección estratégica. Bogotá, Colombia: D´Vinni Impresos. ',
+        'Palacios, L. (2010).<em> Dirección estratégica.</em> Bogotá, Colombia: D´Vinni Impresos. ',
     },
     {
       referencia:
-        'Prettel, G. (2016). Marketing, una herramienta para el crecimiento. Ediciones de la U. ',
+        'Prettel, G. (2016).<em> Marketing, una herramienta para el crecimiento.<em> Ediciones de la U. ',
       link: 'http://www.ebooks7-24.com.bdigital.sena.edu.co/?il=5684&pg=35',
     },
     {
-      referencia: 'ProColombia. (2011). Oferta colombiana en exportaciones. ',
+      referencia:
+        'ProColombia. (2011).<em> Oferta colombiana en exportaciones.</em> ',
       link: 'http://www.procolombia.co',
     },
     {
       referencia:
-        'ProColombia. (s.f.). Inversión en el sector servicios en Colombia. ',
+        'ProColombia. (s.f.). <em>Inversión en el sector servicios en Colombia.</em> ',
       link: 'http://www.inviertaencolombia.com.co',
     },
     {
       referencia:
-        'Rojas, L. M. D., & Medina, M. L. J. (2011). Planeación estratégica: fundamentos y casos. ProQuest Ebook Central. ',
+        'Rojas, L. M. D., & Medina, M. L. J. (2011). <em>Planeación estratégica: fundamentos y casos.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Scheeider, F. L., Kimbrell, G., & Woloszyk, C. A. (2001). Mercadeo en el siglo XXI. ProQuest Ebook Central. ',
+        'Scheeider, F. L., Kimbrell, G., & Woloszyk, C. A. (2001). <em>Mercadeo en el siglo XXI.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
     {
       referencia:
-        'Van, D. B. R. É. (2014). Tratados de libre comercio: retos y oportunidades. ProQuest Ebook Central. ',
+        'Van, D. B. R. É. (2014). <em>Tratados de libre comercio: retos y oportunidades.</em> ProQuest Ebook Central. ',
       link: 'https://ebookcentral-proquest-com.bdigital.sena.edu.co',
     },
   ],
@@ -463,14 +464,20 @@ export default {
     ],
     contenidoInstruccional: [
       {
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Kateryn Valderrama',
         cargo: 'Experta Técnica',
-        centro: 'Centro de Comercio y Servicios – Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'José Gregorio Ramírez',
         cargo: 'Experto Técnico',
-        centro: 'Centro de Comercio y Servicios – Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Bertha Paola Bejarano Ávila',
@@ -490,42 +497,30 @@ export default {
         centro:
           'Centro para La Industria de la Comunicación Gráfica - Distrito Capital',
       },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'sesor Pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
     ],
     desarrolloProducto: [
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Luis Zenen Arevalo Mantilla',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jorge Leonardo Camacho Pardo',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: ['Carlos Julián Ramírez Benítez', 'Lady Adriana Ariza Luque'],
@@ -534,7 +529,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Maria Camila Ovalle',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -77,7 +77,7 @@
 
 
     h4  Ejemplos de objetivos del plan:
-    p.mb-5 Los objetivos de relevancia a considerar para un buen plan de mercadeo son los siguientes:
+    
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-6.col-md-8
         .crd_03.mb-3
@@ -222,19 +222,19 @@ export default {
       {
         titulo: 'Ampliación del mercado servido:',
         texto:
-          'El mercado servido se encuentra referido al mercado disponible al que la empresa decide dirigir sus esfuerzos del mercado meta.<br><br><div style="margin-left:30px;"> <h4>Las estrategias son:</h4><br> Ampliar la distribución.<br>Explorar nuevos mercados geográficos.<br>Ampliar los canales de distribución.</div>',
+          'El mercado servido se encuentra referido al mercado disponible al que la empresa decide dirigir sus esfuerzos del mercado meta.<br><br><div style="margin-left:30px;"> <h4>Las estrategias son:</h4><ul><li> ● Ampliar la distribución.</li><li> ● Explorar nuevos mercados geográficos.</li><li> ● Ampliar los canales de distribución.</li></ul></div>',
         imagen: require('@/assets/tema4/img-7.jpg'),
       },
       {
         titulo: 'Captación de clientes de la competencia',
         texto:
-          'Su acción básica se centra en ofrecer los mismos beneficios que la competencia, intentando superarla de alguna forma.<br><br><div style="margin-left:30px;"> <h4>Las estrategias son:</h4><br>Ampliar el surtido.<br>Mayor fuerza de ventas.<br>Desarrollar un valor agregado.',
+          'Su acción básica se centra en ofrecer los mismos beneficios que la competencia, intentando superarla de alguna forma.<br><br><div style="margin-left:30px;"> <h4>Las estrategias son:</h4><ul><li> ● Ampliar el surtido.</li><li> ● Mayor fuerza de ventas.<li></li> ● Desarrollar un valor agregado.</li></ul>',
         imagen: require('@/assets/tema4/img-8.jpg'),
       },
       {
         titulo: 'Con el posicionamiento diferenciado',
         texto:
-          'La demanda selectiva intenta hacer distinción mediante el ofrecimiento de atributos particulares, con el fin de animar a los clientes a percibir el producto como diferente y deseable.<br><br><div style="margin-left:30px;"> <h4>Las estrategias son:</h4><br>Desarrollar beneficio atributo. Ejemplo calidad y precio.<br>Posicionar los nichos de mercado.<br>Optimizar la promoción de los distribuidores.<br>Reforzar la lealtad del consumidor hacia una marca.',
+          'La demanda selectiva intenta hacer distinción mediante el ofrecimiento de atributos particulares, con el fin de animar a los clientes a percibir el producto como diferente y deseable.<br><br><div style="margin-left:30px;"> <h4>Las estrategias son:</h4><ul><li> ● Desarrollar beneficio atributo. Ejemplo calidad y precio.</li><li> ● Posicionar los nichos de mercado.</li><li> ● Optimizar la promoción de los distribuidores.</li><li> ● Reforzar la lealtad del consumidor hacia una marca.</li></ul>',
         imagen: require('@/assets/tema4/img-9.jpg'),
       },
     ],

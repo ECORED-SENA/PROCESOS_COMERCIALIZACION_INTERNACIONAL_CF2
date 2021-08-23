@@ -22,7 +22,7 @@
         .cajon.color-acento-contenido.fnd1.p-4.mb-4
           .row 
             .col-7
-              p El entorno de Marketing de una organización, en sus relaciones de intercambio, se puede definir como el conjunto de fuerzas directas e indirectas, controlables e incontrolables, que son susceptibles de ejercer influencia, desde un ámbito microeconómico y macroeconómico, en todas sus acciones, decisiones y resultados. (Esteban, T, 2014, p. 61).
+              p El entorno de <em>Marketing</em> de una organización, en sus relaciones de intercambio, se puede definir como el conjunto de fuerzas directas e indirectas, controlables e incontrolables, que son susceptibles de ejercer influencia, desde un ámbito microeconómico y macroeconómico, en todas sus acciones, decisiones y resultados. (Esteban, T, 2014, p. 61).
             .col-5 
               figure
                 img.img-150(src="@/assets/tema2/img-2-.svg", )        
@@ -35,7 +35,7 @@
     .row.justify-content-around.align-items-center
       .col-lg-8 
         figure.mb-5
-          img(src="@/assets/tema2/img-4-.svg", )
+          img(src="@/assets/tema2/img-4.svg", )
           figcaption.mx-5 Autoría propia 
 
     separador
@@ -101,6 +101,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-12.svg')
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21). 
               
       .py-4.py-md-5(titulo="Entorno legal" :icono="require('@/assets/tema2/img-6.svg')")
         .row
@@ -126,7 +127,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-13.svg')
-        
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21).
       .py-4.py-md-5(titulo="Entorno político" :icono="require('@/assets/tema2/img-7.svg')")
         .row
           h4 Entorno político
@@ -158,7 +159,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-14.svg')
-
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21).
       .py-4.py-md-5(titulo="Entorno demográfico" :icono="require('@/assets/tema2/img-8.svg')")
         .row
           h4 Entorno demográfico
@@ -205,6 +206,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-15.svg')
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21).
       .py-4.py-md-5(titulo="Entorno tecnológico" :icono="require('@/assets/tema2/img-9.svg')")
         .row
           h4 Entorno tecnológico
@@ -235,6 +237,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-16.svg')
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21).
       .py-4.py-md-5(titulo="Entorno sociocultural" :icono="require('@/assets/tema2/img-10.svg')")
         .row
           h4 Entorno sociocultural
@@ -285,6 +288,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-17.svg')
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21).
       .py-4.py-md-5(titulo="Entorno ecológico" :icono="require('@/assets/tema2/img-11.svg')")
         .row
           h4 Entorno ecológico
@@ -314,6 +318,7 @@
           .col-md-4
             figure
               img.img-300(src='@/assets/tema2/img-18.svg')
+              figcaption.mx-5 Fuente: (Palacios, 2009, p. 21).
 
 
     separador

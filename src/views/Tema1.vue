@@ -8,7 +8,7 @@
       h1 Técnicas de selección de ideas
 
     #t_1_2.titulo-segundo
-      h2 1.2 Método Lambin
+      h2 1.2 Método <em>Lambin</em>
     p.mb-5 Para el desarrollo de nuevos productos o servicios, es de suma importancia #[strong pensar] en la #[strong búsqueda] de una estrategia para #[strong seleccionar ideas], que debe ser, según el proyecto, acorde con los objetivos y estrategias propuestas por la empresa.
 
     .row.align-self-center  
@@ -24,10 +24,10 @@
     separador
 
     #t_1_3.titulo-segundo
-      h2 1.3 Método Brainstorming (lluvia de ideas)
+      h2 1.3 Método <em>Brainstorming</em> (lluvia de ideas)
     .row
       .col-md-6.align-self-center.mb-5
-        p La técnica se debe a Alex Osborn (de la firma de publicidad Batten, Durstine & Osborn), que la desarrolló en los años 40 a 50. Su nombre es la combinación de «brain» (cerebro) y «storm» (tormenta), por lo que a veces se traduce literalmente por «tormenta cerebral» o «tempestad de ideas» (Imaginación aplicada, 1953). 
+        p La técnica se debe a Alex Osborn (de la firma de publicidad Batten, Durstine & Osborn), que la desarrolló en los años 40 a 50. Su nombre es la combinación de <em>«brain»</em> (cerebro) y <em>«storm»</em> (tormenta), por lo que a veces se traduce literalmente por «tormenta cerebral» o «tempestad de ideas» (Imaginación aplicada, 1953). 
 
         p Osborn la definió como «una técnica de reuniones con la que un grupo intenta encontrar una solución a un problema específico, recogiendo las ideas presentadas espontáneamente por sus miembros». Es, por lo tanto, una técnica grupal. (Fernández, R. A., 2005, p.67)
         .bloque-texto-b.color-secundario.p-4.mb-5
@@ -37,7 +37,7 @@
             i.fas.fa-quote-right  
             br
             span.p-cent.img-c Alex Osborn         
-        h4 Principios para el desarrollo asertivo del Brainstorming:    
+        h4 Principios para el desarrollo asertivo del <em>Brainstorming</em>:    
         .ul.lista-ul--color.p-3
           li.mb-2
             i.fas.fa-angle-right.ii
@@ -130,8 +130,8 @@
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-6
         figure
-          img(src="@/assets/tema1/img-4.svg", )
-
+          img(src="@/assets/tema1/img-4-.svg", )
+          figcaption.mx-5 (Murcia, C. H. H, 2011, p.62) 
 
     h4.mb-5 Ventajas y desventajas:
     p Las ventajas del análisis DOFA: se pueden maximizar las fortalezas y minimizar las debilidades para aprovechar las oportunidades externas y al mismo tiempo superar las amenazas.

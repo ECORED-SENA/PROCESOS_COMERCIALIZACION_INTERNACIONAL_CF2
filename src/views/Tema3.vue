@@ -15,11 +15,11 @@
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-8
         .cajon.color-primario.p-4.mb-4.fnd2
-          .h5 Cajón texto color
+          
           p Estas normas determinan cómo y cuándo se eliminarán las barreras arancelarias para conseguir el libre paso de los productos y servicios entre los países participantes y que se realicen “sin restricciones injustificadas y en condiciones transparentes y predecibles” (Ministerio de Agricultura y Desarrollo Rural, 2016).
 
     #t_3_1.titulo-segundo
-      h2 3.1 ¿Qué es el entorno?
+      h2 3.1 Objetivos
     .row
       .col-md-6.align-self-center.mb-5
         figure
@@ -177,7 +177,7 @@
         p.texxt - Se pueden distinguir tres tipos de acuerdos, según el alcance:
         p.texxt - Acuerdo de  alcance parcial (el más básico en materias arancelarias).
         p.texxt - Acuerdo de asociación estratégica (alcance medio  donde también se tratan temas no comerciales como tecnológica o social).
-        p.texxt - Acuerdos  de complementación. 
+        p.texxt - Acuerdos  de complementación economica, por lo general,  son acuerdos con objetivos integradores de apertura para mercancias y materias primas,  mayores a los Acuerdos de Alcance Parcial.
 
 
 </template>
