@@ -130,7 +130,7 @@
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-6
         figure
-          img(src="@/assets/tema1/img-4-.svg", )
+          img(src="@/assets/tema1/img-4.svg", )
           figcaption.mx-5 (Murcia, C. H. H, 2011, p.62) 
 
     h4.mb-5 Ventajas y desventajas:
