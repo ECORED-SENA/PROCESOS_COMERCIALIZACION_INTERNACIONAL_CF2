@@ -89,7 +89,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo: 'Objetivo',
+            titulo: 'Objetivos',
             hash: 't_3_1',
           },
           {
