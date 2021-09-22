@@ -32,7 +32,7 @@
 
     .row.mb-5.mx-5 
       figure
-        img(src="@/assets/tema4/img-2.svg", )
+        img(src="@/assets/tema4/img-2-.svg", )
 
     
 
@@ -149,7 +149,7 @@
 
     #t_4_2.titulo-segundo
       h2 4.2 Estrategia básica del mercadeo   
-    p Dentro de las estrategias básicas y relevantes para el <em>marketing</em>, las más importantes son la demanda primaria y la demanda selectiva, las cuales se abordarán a continuación:
+    p.mb-5 Dentro de las estrategias básicas y relevantes para el <em>marketing</em>, las más importantes son la demanda primaria y la demanda selectiva, las cuales se abordarán a continuación:
 
     h4 Estrategias para estimular la demanda primaria
     p Para el caso de la demanda primaria se plantean las siguientes estrategias como elementos que la estimulan:

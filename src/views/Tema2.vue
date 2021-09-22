@@ -28,15 +28,15 @@
                 img.img-150(src="@/assets/tema2/img-2-.svg", )        
     h4 Matriz DOFA
     figure.mb-5
-      img(src="@/assets/tema2/img-3.svg", )
-      figcaption.mx-5 Autoría propia 
+      img(src="@/assets/tema2/img-3-.svg", )
+      
     p Es una herramienta metodológica de diagnóstico empresarial, estratégico y competitivo, que se emplea para identificar acciones factibles, mediante el cruce de variables, con el fin de formular y evaluar la estrategia.
     p.mb-5 El análisis debe hacerse teniendo en cuenta lo siguiente:
     .row.justify-content-around.align-items-center
-      .col-lg-8 
+      .col-lg-10 
         figure.mb-5
-          img(src="@/assets/tema2/img-4.svg", )
-          figcaption.mx-5 Autoría propia 
+          img.img-500(src="@/assets/tema2/img-4.svg", )
+         
 
     separador
     #t_2_2.titulo-segundo
@@ -336,7 +336,7 @@
       .row.justify-content-around.align-items-center
         .col-md-9
           figure
-            img(src='@/assets/tema2/img-19-.svg')
+            img.img-500(src='@/assets/tema2/img-19-.svg')
 
 
 </template>
