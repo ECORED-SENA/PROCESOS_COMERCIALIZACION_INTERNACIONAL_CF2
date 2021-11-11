@@ -80,7 +80,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/io6CoTPxrB8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/fyLiClk6kWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
  
     p.mb-5 Así también se promueven las instituciones gubernamentales y privadas, transparentes y responsables, que coadyuven al desarrollo industrial y comercial de un país, con un respeto absoluto hacia los derechos humanos, educando y preparando la población para que con su esfuerzo ayude al desarrollo de sus comunidades, incluyendo beneficios para el cuidado y la conservación de la naturaleza y el medio ambiente. Algunos gobiernos, afortunadamente cada vez menos, creen que reducir las importaciones es beneficioso para la economía de su país y que la globalización con la disminución o eliminación de aranceles genera un retroceso en el sector industrial y, por ende, en la economía de la nación. Por el contrario, reducir las importaciones es perjudicial para la economía del país, ya que conlleva a disminuir las exportaciones, debido a: 
 
@@ -100,39 +100,39 @@
               img(src='@/assets/tema3/img-11.png', alt='Tratados de Libre Comercio vigentes')
               
 
-          .tarjeta.color-primario.p-3(x="44.3%" y="16%")
+          .tarjeta.color-primario.p-3(x="45.7%" y="8%")
             p.text-center El Acuerdo Comercial Multipartes entre la Unión Europea, Colombia, Perú y Ecuador, está en vigencia provisional desde el 1 de agosto de 2013, mediante el Decreto 1513 del 18 de julio de 2013.
-          .tarjeta.color-primario.p-3(x="55.5%" y="18.7%")
+          .tarjeta.color-primario.p-3(x="59.5%" y="10.7%")
             p.text-center Acuerdo Comercial, Acuerdo de Promoción Comercial entre la República de Colombia y los Estados Unidos de América, suscrito el 22 noviembre de 2006 y puesto en vigencia el 15 de mayo de 2012.   
-          .tarjeta.color-primario.p-3(x="65.5%" y="25.4%")
+          .tarjeta.color-primario.p-3(x="72.5%" y="20.4%")
             p.text-center El Acuerdo de Promoción Comercial entre Colombia y Canadá fue suscrito en Lima, Perú, el 21 de noviembre de 2008. Complementa el Acuerdo de Cooperación Laboral y el Acuerdo de Cooperación Ambiental firmados en la misma fecha. El Acuerdo entró en vigor el 15 de agosto de 2011, y fue aprobado mediante la Ley1363 del 9 de diciembre de 2009 por el Congreso Colombiano.
-          .tarjeta.color-primario.p-3(x="71.3%" y="36.4%")
+          .tarjeta.color-primario.p-3(x="95.3%" y="27.4%")
             p.text-center El acuerdo de Libre Comercio entre Colombia  y los Estados  AELC-EFTA (Suiza, Noruega, Islandia y Liechtenstein) se suscribió el 25 de noviembre de 2008 y fue aprobado mediante ley 1372del 7 de enero de 2010.
-          .tarjeta.color-primario.p-3(x="73.8%" y="49%")
+          .tarjeta.color-primario.p-3(x="80.8%" y="49%")
             p.text-center El acuerdo comercial entre Colombia y Corea del Sur se suscribió el 21 de febrero de 2013 en Seúl. Fue aprobado en el Congreso de Colombia mediante la Ley 1747 del 26 de diciembre de 2014 y declarado exequible por la Corte Constitucional el 14 de abril de 2016. Entró en vigor  el 15 de Julio de 2016.
 
-          .tarjeta.color-primario.p-3(x="71.8%" y="62.9%")
+          .tarjeta.color-primario.p-3(x="78.8%" y="65.9%")
             p.text-center La Alianza del Pacífico es un mecanismo de articulación política, económica y una plataforma de integración entre Chile, Colombia, México y Perú con el Asia Pacifico, establecido en abril de 2011 con la Declaración Presidencial de Lima. Constituido formal y jurídicamente el 6  de  junio  de  2012,  con  la suscripción del Acuerdo Marco, el cual entró en vigor el 20 de julio de 2015. Está definida como un área de integración profunda, que busca avanzar progresivamente hacia la libre circulación de bienes, servicios, capitales y personas.
 
-          .tarjeta.color-primario.p-3(x="65.5%" y="73%")
+          .tarjeta.color-primario.p-3(x="71.5%" y="78%")
             p.text-center El Acuerdo de Integración Subregional Andino, suscrito el 26 de mayo de 1969, y posteriormente denominado Acuerdo de Cartagena, comenzó a gestarse desde	1966 con la Declaración  de  Bogotá, y  entró  en vigencia el  16 de octubre de 1969, cuando el Comité permanente de la ALALC obtuvo la ratificación oficial del Gobierno de Perú, después de la de los  Gobiernos  de  Colombia y Chile.  En  1973,  Venezuela  adhirió, Chile se retiró en 1976, y en el año 2006 Venezuela lo denunció, concluyendo	su proceso de desvinculación en 2011.
-          .tarjeta.color-primario.p-3(x="55.5%" y="80%")
+          .tarjeta.color-primario.p-3(x="59.5%" y="86.6%")
             p.text-center Las  preferencias comerciales con Argentina, Brasil, Paraguay y Uruguay se rigen por el Acuerdo de Complementación Económica No  72 (ACE-72), suscrito en julio de 2017, el cual recoge lo acordado en el ACE-59, vigente desde el año 2005.
-          .tarjeta.color-primario.p-3(x="44.5%" y="83%")
+          .tarjeta.color-primario.p-3(x="46%" y="90%")
             p.text-center En 1994, Colombia y Venezuela suscribieron con México un Acuerdo Comercial denominado Tratado del Grupo de los Tres (TLC-G#), que entró en vigor en enero de 1995. En agosto de 2009, Colombia y México culminaron trabajos de adecuación del Acuerdo, el cual se ajustó a las nuevas realidades comerciales, luego de la salida de Venezuela, en 2006. En junio de 2010 se suscribió el Protocolo Modificatorio, que entró en vigor en agosto de 2011. Cabe anotar que este acuerdo tiene un alcance de la Alianza del Pacifico.
-          .tarjeta.color-primario.p-3(x="33.4%" y="78.7%")
+          .tarjeta.color-primario.p-3(x="30%" y="96%")
             p.text-center El Acuerdo entre Colombia y los países del Triángulo Norte (TN) fue firmado en agosto de 2007 y entró en vigor de manera bilateral así: Colombia -Guatemala en noviembre de 2009, Colombia -El Salvador en febrero de 2010 y Colombia-Honduras en marzo de 2010.
-          .tarjeta.color-primario.p-3(x="24%" y="72.2%")
+          .tarjeta.color-primario.p-3(x="20%" y="79.2%")
             p.text-center El Acuerdo Complementación Económica (ACE) No 224, suscrito en Santiago de Chile el 6 de diciembre de 1993, entró en vigencia el 1o de enero de 1994, e incluye disposiciones relacionadas con el ámbito de bienes. En noviembre de 2006 se constituye un Protocolo adicional al ACE N224, el cual entró en vigor en mayo de 2009, e incorpora disciplinas en servicios,	compras públicas, inversión, así como compromisos en materia laboral y ambiental.
-          .tarjeta.color-primario.p-3(x="18.3%" y="61.3%")
+          .tarjeta.color-primario.p-3(x="10.7%" y="66.3%")
             p.text-center Acuerdo de Alcance Parcial de naturaleza Comercial AAPC No 28, suscrito en noviembre de 2011 y vigente desde octubre de 2012. Con el Acuerdo, Colombia recibe preferencias arancelarias del 100% en más de 4,900 subpartidas por parte de Venezuela y preferencias entre el 0% y 80% para 109 subpartidas. Por su parte, Colombia otorga preferencias arancelarias del 100% a más de 4,800 subpartidas y entre 0% y 33% a 111 subpartidas.
-          .tarjeta.color-primario.p-3(x="16.2%" y="49%")
+          .tarjeta.color-primario.p-3(x="16.2%" y="50%")
             p.text-center El tratado de Libre Comercio con Costa Rica fue aprobado mediante la Ley 1763 del 15 de julio de 2016 y entró en vigencia el 1o de agosto de 2016. Por sectores, el 81% de los productos agrícolas iniciaron un proceso de desgravación de aranceles en plazos máximos de 15 años. Para  la indusria, este porcentaje alcanza el 98% de los productos en plazos máximos de 15 años.
-          .tarjeta.color-primario.p-3(x="17.5%" y="37%")
+          .tarjeta.color-primario.p-3(x="11.5%" y="33%")
             p.text-center El acuerdo de Alcance Parcial No 31 sobre Comercio y Cooperación Económica y Técnica, entró  en vigencia  a partir del 1 de enero de 1995, mediante el Decreto No 2891 y el 1 de enero de 1999, mediante el Decreto No 973. Países miembros de CARICOM (de los 15 miembros) que participan del AAP No 31 son: Trinidad y Tobago, Jamaica, Barbados, Guyana, Antigua y Barbuda, Belice, Dominica, Granada, Monserrat, San Cristobal y Nieves, Santa Lucia, San Vicente y las Granadinas. Los países de CARICOM  que no son parte del AAP No31 son: Surinam, Haiti y Bahamas.
-          .tarjeta.color-primario.p-3(x="24%" y="26%")
+          .tarjeta.color-primario.p-3(x="20%" y="20%")
             p.text-center El acuerdo de Complementación Económica No 49 está vigente desde julio de 2001. El acuerdo  abarca cerca de 1,500 productos con preferencias a favor de Colombia y casi 1,000 a favor de Cuba. Beneficia a productos  como: carne bovina, lácteos, flores, hortalizas, café, confetis, mermeladas, maquinaria, equipos, vehículos, entre otros. Este Acuerdo se ha profundizado en tres ocasiones.
-          .tarjeta.color-primario.p-3(x="33%" y="18.3%")
+          .tarjeta.color-primario.p-3(x="32%" y="10.3%")
             p.text-center Desde julio de 1993, Colombia y Panamá tienen vigente el AAP N229, que incluye dos protocolos modificatorios de 2005 y 2013. En el marco de este Acuerdo, Colombia otorga preferencias en más de 300 productos y recibe preferencias en más de 80 productos, que van del 20% al 100%.
 
     p.mb-5 Pero ¿Qué buscan los países al agruparse en estos tratados? “La dinámica económica del mundo ha llevado a realizar alianzas, acuerdos y comercios que permitan comprar a menor precio y vender en mejores condiciones, siempre con el objetivo de lograr un mayor bienestar para los ciudadanos” (El Tiempo, 2004).
