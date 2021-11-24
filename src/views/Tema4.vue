@@ -85,11 +85,11 @@
             .cc1
               h1.cc3 1
           .crd_03__txt
-            p Alcanzará en el año 2019 unas ventas de 3546 kilos, equivalentes a $245.6 millones de pesos.
+            p Alcanzará en el año 2019 unas ventas de 3546 kilos, equivalentes a $ 245.6 millones de pesos.
 
         .crd_04.mb-3
           .crd_04__txt
-            p Obtener en el año 2019 una utilidad neta del 12% sobre las ventas netas.        
+            p Obtener en el año 2019 una utilidad neta del 12 % sobre las ventas netas.        
           .crd_04__icon.mx-4
             .cc1
               h1.cc3 2
@@ -100,7 +100,7 @@
             .cc1
               h1.cc3 3
           .crd_03__txt
-            p Incrementar, en el año 2019, en un 2%, la participación en el mercado, para alcanzar un total de 18%
+            p Incrementar, en el año 2019, en un 2 %, la participación en el mercado, para alcanzar un total de 18 %
 
     h4.mb-5 Objetivos de ventas
     p Estos deben estar claramente definidos y reflejados en el plan de <em>marketing</em> y ventas; siendo necesario que su conocimiento sea bien comprendido por toda la organización.
